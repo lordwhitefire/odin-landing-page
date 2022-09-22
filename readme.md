@@ -1,0 +1,1 @@
+this project is about designing a landing page and is my first css project
