@@ -1,10 +1,11 @@
 ul {
   list-style-type: none;
   display: inline-block;
-  margin-right:140px;
+  margin-right:165px;
   
-  margin-left:105px;
-  margin-bottom: 100px;
+  margin-left:100px;
+  margin-bottom: 50px;
+  box-sizing: border-box;
   
 }
 li {
@@ -12,16 +13,15 @@ li {
   
 }
 .div {
-  margin-left:135px;
-  width:35%;
+  margin-left:145px;
+  width:32%;
 }
 .p1 {
-  
   background-color:#808080;
   color:#E5E7EB;
-  
-  padding:95px  70px ;
-  margin-right:125px;
+  font-size: 12px;
+  padding:70px  70px ;
+  margin-right:150px;
   margin-top:23px;
 }
 .p2 {
@@ -29,52 +29,57 @@ li {
   display:inline-block;
 }
 .signup {
-  background-color: blue;
+background-color: #3882F6;
   color:white;
-  border:2px solid blue;
-  border-radius: 4px;
+  border:2px solid #3882F6;
+  border-radius: 5px;
   padding:4px 30px;
+  
 }
 
 
 .first {
 background-color:#1F2937;
-padding-bottom: 120px;
+padding-bottom: 90px;
+box-sizing: border-box;
 
 }
 .headerlogo {
-  font-size: 24px;
+  font-size: 15px;
   color: #F9FAF8;
+  font-weight:bold;
 }
 .di {
-  font-size: 48px;
+  font-size: 30px;
   font-weight: bold;
   padding-right: 140px;
   color:#F9FAF8;
 }
 .di2 {
-  font-size:18px ;
+  font-size:12px ;
   
   color:#E5E7EB ;
 }
 .headerlinktext {
-  font-size:18px ;
+  font-size:12px ;
   
   color:#E5E7EB ;
 }
 .psize {
   font-size: 12px;
   text-align: center;
+  margin-top: -12px;
 }
 .header {
-  font-size: 36px;
+  font-size :15px;
   font-weight:bold;
   color: #1F2937;
   text-align: center;
+  padding-top: 20px;
 }
 .border {
-  border: 2px solid blue;
-  border-radius:20px;
+  border: 2px solid #3882F6;
+  border-radius:10px;
   width:120px;
   height: 120px;
   
@@ -87,15 +92,14 @@ padding-bottom: 120px;
 .wrap1 {
   margin-left:180px;
   margin-top: -50px;
-  padding-bottom:80px;
+  padding-bottom:65px;
 }
 .quote {
   width: 65%;
   margin-left:200px;
-  font-size: 30px;
+  font-size: 14px;
   font-style: italic;
-  font-weight: 100px;
-  line-height:30px;
+  font-weight: thin;
   color: #1F2937;
   
 }
@@ -106,17 +110,17 @@ padding-bottom: 120px;
 }
 .cite {
   margin-left:450px;
-  font-size: 18px;
+  font-size: 8px;
   font-weight: bold;
 
 }
 .signup1 {
   color:white;
   border:2px solid white;
-  border-radius: 4px;
-  padding:4px 30px;
+  border-radius: 6px;
+  padding:4px 18px;
   background-color: #3882F6;
-  margin-right:50px;
+  margin-right:80px;
   margin-top:35px
   
 }
@@ -124,30 +128,35 @@ padding-bottom: 120px;
   float: right;
 }
 .action {
-  margin-left:50px;
+  margin-left:70px;
   margin-top:30px;
   color: white;
 }
 .time {
   background-color: #3882F6;
   width:70%;
-  margin-left:150px;
+  margin-left:130px;
   padding-top:10px;
   padding-bottom:30px;
   padding-left:20px;
   border-radius:5px;
-  margin-top:100px;
-  margin-bottom:100px;
+  margin-top:70px;
+  margin-bottom:70px;
 }
 .footer {
   text-align: center;
   color: white;
+  font-size: 12px;
 }
 .footer1 {
   background-color: #1F2937;
-  padding:50px;
+  padding:5px;
+  box-sizing: border-box;
 }
 .call {
   
-  font-weight: bold;
+  font-weight: bold
+}
+.yuomen {
+  font-size: 11px;
 }
